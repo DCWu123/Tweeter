@@ -5,10 +5,10 @@ import matplotlib.pyplot as plt; plt.rcdefaults()
 import seaborn as sns
 import re
 
-consumer_key = "G3GrZyg7r89FCH96iurckOhlG"
-consumer_secret = "KhqhetHDZwnunqI99XqsOtfRyJv0zmHXfY5SPDdgVx6jHkZKSJ"
-access_token = "2963085141-SpdCreIunpWRqcDryBAyrykEYOiX1jMHHeGoMMT"
-access_token_secret = "DUcW6OJJJgO8pmZO1r9XFeSYvEeBIafJKUmkPMM5a6A2I"
+consumer_key = "XXXXXXXX"
+consumer_secret = "XXXXXXXXXX"
+access_token = "XXXXXXXXXXX"
+access_token_secret = "XXXXXXXXXXXXX"
 
 # Method to get the tweets
 def get_tweets(username):
