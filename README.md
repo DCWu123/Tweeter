@@ -5,5 +5,7 @@ With that information we manage to purify it and mold it so that with the use of
 For this project we used Pyrhon3 as our main programming languaje and various libraries within it sucj=h as:
 - NUMPY
 - MATPLOTLIB
-- LEAF
+- FOLLIUM
 - PANDAS
+- SEABORN 
+- RE
